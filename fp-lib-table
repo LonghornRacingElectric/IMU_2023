@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MCP2561-E_SN")(type "KiCad")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/MCP2561-E_SN.pretty")(options "")(descr "")(disabled))
+  (lib (name "ICM-42688-P")(type "KiCad")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/ICM-42688-P.pretty")(options "")(descr ""))
+  (lib (name "Push Buttons")(type "KiCad")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/Push Buttons.pretty")(options "")(descr ""))
+)

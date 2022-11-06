@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ICM-42688-P")(type "KiCad")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/ICM-42688-P/ICM-42688-P.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-42688-P (Legacy)")(type "Legacy")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/ICM-42688-P/ICM-42688-P.lib")(options "")(descr ""))
+  (lib (name "MCP2561-E{slash}SN")(type "KiCad")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/MCP2561-E_SN/MCP2561-E_SN.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "MCP2561-E{slash}SN (Legacy)")(type "Legacy")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/MCP2561-E_SN/MCP2561-E_SN.lib")(options "")(descr "")(disabled))
+  (lib (name "Push_Buttons")(type "KiCad")(uri "C:/Users/Tachi/Documents/KiCad Projects/Libraries/TS-1187A-B-A-B/Push_Buttons.kicad_sym")(options "")(descr ""))
+)
