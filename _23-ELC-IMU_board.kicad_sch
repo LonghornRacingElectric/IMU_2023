@@ -831,7 +831,7 @@
     (in_bom yes) (on_board yes)
     (uuid 2e20534c-db23-4779-b935-bdcdad748d27)
     (property "Reference" "TP?" (id 0) (at 198.12 130.81 0))
-    (property "Value" "TestPoint" (id 1) (at 198.12 133.35 0))
+    (property "Value" "SDA_Test" (id 1) (at 198.12 133.35 0))
     (property "Footprint" "" (id 2) (at 203.2 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1025,7 +1025,7 @@
     (in_bom yes) (on_board yes)
     (uuid f5a8a556-7cb0-4bdc-b114-48db54953dd2)
     (property "Reference" "TP?" (id 0) (at 187.96 130.81 0))
-    (property "Value" "TestPoint" (id 1) (at 187.96 133.35 0))
+    (property "Value" "SCL_Test" (id 1) (at 187.96 133.35 0))
     (property "Footprint" "" (id 2) (at 193.04 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1494,10 +1494,10 @@
       (reference "TP7") (unit 1) (value " ") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
     (path "/2e20534c-db23-4779-b935-bdcdad748d27"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "")
+      (reference "TP?") (unit 1) (value "SDA_Test") (footprint "")
     )
     (path "/f5a8a556-7cb0-4bdc-b114-48db54953dd2"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "")
+      (reference "TP?") (unit 1) (value "SCL_Test") (footprint "")
     )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/00000000-0000-0000-0000-0000634311a7"
       (reference "U1") (unit 1) (value "STM32F105RCTx") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
