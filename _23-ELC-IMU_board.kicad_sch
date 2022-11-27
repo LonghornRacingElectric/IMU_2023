@@ -753,7 +753,7 @@
     (in_bom yes) (on_board yes)
     (uuid 09bd8a18-fa7b-4015-8547-230d491cb9a1)
     (property "Reference" "J?" (id 0) (at 146.05 129.54 0))
-    (property "Value" "Conn_01x06" (id 1) (at 146.05 132.08 0))
+    (property "Value" "Deutsch DTM6" (id 1) (at 146.05 132.08 0))
     (property "Footprint" "" (id 2) (at 146.05 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -908,7 +908,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 98f8d048-5fd0-450e-921f-559b233f72a7)
     (property "Reference" "J?" (id 0) (at 109.22 129.54 0))
-    (property "Value" "Conn_01x06" (id 1) (at 109.22 132.08 0))
+    (property "Value" "Deutsch DTM6" (id 1) (at 109.22 132.08 0))
     (property "Footprint" "" (id 2) (at 109.22 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1149,26 +1149,17 @@
     (path "/54e69940-e60b-406d-b33c-8246d242800f/4fa70299-b2f8-4f23-acdf-3a4bf589dbf2"
       (reference "#PWR010") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/54e69940-e60b-406d-b33c-8246d242800f/20ea3bd5-4e5a-42ee-badd-a960f97ca70d"
-      (reference "#PWR011") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/d193e015-664a-4a56-b639-1ea10c5180a7"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
     )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/00000000-0000-0000-0000-00006347b83a"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "")
     )
-    (path "/54e69940-e60b-406d-b33c-8246d242800f/00000000-0000-0000-0000-00006345342b"
-      (reference "#PWR015") (unit 1) (value "GND") (footprint "")
-    )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/d6f96a49-6f78-47db-8cff-86585c8d7dc4"
       (reference "#PWR016") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/fa643682-4225-4021-b98c-9657accd28ab"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/54e69940-e60b-406d-b33c-8246d242800f/00000000-0000-0000-0000-00006344e612"
-      (reference "#PWR020") (unit 1) (value "+3.3VA") (footprint "")
     )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/6dc19955-c028-4686-acb6-6e23df83336f"
       (reference "#PWR021") (unit 1) (value "GND") (footprint "")
@@ -1305,14 +1296,8 @@
     (path "/ff63b25e-ed05-40c6-94ec-12da2c4435e9/5eef7685-46e3-4490-b1c3-d367d5bf00e5/a79155f4-0284-4193-bcd2-9e7289dc8a7b"
       (reference "C6") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
-    (path "/54e69940-e60b-406d-b33c-8246d242800f/00000000-0000-0000-0000-00006344ff92"
-      (reference "C7") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
     (path "/ff63b25e-ed05-40c6-94ec-12da2c4435e9/5eef7685-46e3-4490-b1c3-d367d5bf00e5/2f4ed9e2-3b6e-47a8-9b3c-3d67ddce4f56"
       (reference "C7") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
-    (path "/54e69940-e60b-406d-b33c-8246d242800f/00000000-0000-0000-0000-000063450ccd"
-      (reference "C8") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/ff63b25e-ed05-40c6-94ec-12da2c4435e9/5eef7685-46e3-4490-b1c3-d367d5bf00e5/0db66213-c7b5-4743-9486-49b38676a3e3"
       (reference "C8") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1378,22 +1363,19 @@
       (reference "J3") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Vertical")
     )
     (path "/09bd8a18-fa7b-4015-8547-230d491cb9a1"
-      (reference "J?") (unit 1) (value "Conn_01x06") (footprint "")
+      (reference "J?") (unit 1) (value "Deutsch DTM6") (footprint "")
     )
     (path "/5fe97024-2e49-4443-bc0c-2f1272ffe457"
       (reference "J?") (unit 1) (value "Conn_01x03") (footprint "")
     )
     (path "/98f8d048-5fd0-450e-921f-559b233f72a7"
-      (reference "J?") (unit 1) (value "Conn_01x06") (footprint "")
+      (reference "J?") (unit 1) (value "Deutsch DTM6") (footprint "")
     )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/af358307-4e47-4011-a445-f75ae1a48b0c"
       (reference "JP1") (unit 1) (value " ") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm")
     )
     (path "/54e69940-e60b-406d-b33c-8246d242800f/b8e19e43-8c6c-459f-b0f9-527504529f07"
       (reference "JP2") (unit 1) (value " ") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm")
-    )
-    (path "/54e69940-e60b-406d-b33c-8246d242800f/00000000-0000-0000-0000-00006344dc34"
-      (reference "L1") (unit 1) (value "68n") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/ff63b25e-ed05-40c6-94ec-12da2c4435e9/5eef7685-46e3-4490-b1c3-d367d5bf00e5/f2331792-5756-4679-aed2-ee592914aae4"
       (reference "L1") (unit 1) (value "4u7") (footprint "Inductor_SMD:L_Sunlord_MWSA0518_5.4x5.2mm")
