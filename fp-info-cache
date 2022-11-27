@@ -1,4 +1,4 @@
-20549506790499304
+20567864969498703
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53158,12 +53158,75 @@ Connector
 8
 8
 Global Libraries
+CAS120B
+CAS-120B-1
+Switch
+0
+3
+3
+Global Libraries
 CD143ASR05
 CD143A-SR05-1
 Diode
 0
 4
 4
+Global Libraries
+CSD19531Q5AT
+DQJ (CSD19531Q5AT)
+MOSFET (N-Channel)
+0
+9
+9
+Global Libraries
+DRC23-24PB
+Deutsch DRC header 24 Pin
+connector Detusch DRC 24
+0
+24
+24
+Global Libraries
+SON50P200X300X80-13N-D
+DSS0012B
+Integrated Circuit
+0
+13
+13
+Global Libraries
+SOP50P640X120-38N
+DBT0038A
+Integrated Circuit
+0
+38
+38
+Global Libraries
+SOP65P490X110-8N
+RM-8
+Integrated Circuit
+0
+8
+8
+Global Libraries
+SOT95P280X100-6N
+TSOT26_A
+TVS Diode (Uni-directional)
+0
+6
+6
+Global Libraries
+TE_DT15-6P
+
+
+0
+6
+6
+Global Libraries
+rylan
+
+
+0
+0
+0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -60472,6 +60535,13 @@ Integrated Circuit
 0
 8
 8
+Mouser_Parts
+SOIC127P600X175-16N
+16L SOP – 150 mil
+Integrated Circuit
+0
+16
+16
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -71154,6 +71224,13 @@ SOIC SO
 0
 28
 28
+Package_SO
+SOIC127P600X175-16N[1]
+16L SOP – 150 mil
+Integrated Circuit
+0
+16
+16
 Package_SO
 SOJ-36_10.16x23.49mm_P1.27mm
 SOJ, 36 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
