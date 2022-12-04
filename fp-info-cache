@@ -1,4 +1,4 @@
-20567864969498703
+20574543300871565
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53186,6 +53186,20 @@ connector Detusch DRC 24
 24
 24
 Global Libraries
+DT13-6P
+DT13-6P
+Connector
+0
+9
+9
+Global Libraries
+SOIC127P600X175-16N
+16L SOP – 150 mil
+Integrated Circuit
+0
+16
+16
+Global Libraries
 SON50P200X300X80-13N-D
 DSS0012B
 Integrated Circuit
@@ -53220,6 +53234,13 @@ TE_DT15-6P
 0
 6
 6
+Global Libraries
+TE_DT15-12PA
+
+
+0
+12
+12
 Global Libraries
 rylan
 
@@ -60521,6 +60542,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+Mouser_Parts
+43045-06_00,01,02,10_
+43045-06(00,01,02,10)
+Connector
+0
+6
+6
 Mouser_Parts
 348300801
 34830-0801-4
